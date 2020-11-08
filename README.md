@@ -2,7 +2,7 @@
 
 ## Overview
 
-The aim of this project is to build a model that predicts and diagnoses chronic inflammatory respiratory diseases. The model classifies the patient into one of the four groups: Chronic Obstructive Pulmonary Disease (COPD), asthma, infected, and Healthy Controls (HC). The used dataset to build the model is Exasens dataset and it is downloaded from [UCI ML](https://archive.ics.uci.edu/ml/datasets/Exasens#)
+The aim of this project is to build a model that predicts and diagnoses chronic inflammatory respiratory diseases. The model classifies the patient into one of the four groups: Chronic Obstructive Pulmonary Disease (COPD), asthma, infected, and Healthy Controls (HC). The used dataset to build the model is Exasens dataset and it is downloaded from [UCI ML](https://archive.ics.uci.edu/ml/datasets/Exasens#).
 The Exasens dataset includes demographic information on four groups of saliva samples (COPD-Asthma-Infected-HC) collected in the frame of a joint research project at the Research Center Borstel, BioMaterialBank Nord (Borstel, Germany). A permittivity biosensor, developed at IHP Microelectronics (Frankfurt Oder, Germany), was used for the dielectric characterization of the saliva samples for classification purposes [[1]](https://www.mdpi.com/2227-9032/7/1/11).
 
 Definition of four sample groups included within the Exasens dataset:
